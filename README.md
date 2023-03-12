@@ -1,1 +1,1 @@
-# posts
+# post
