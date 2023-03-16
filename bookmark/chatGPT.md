@@ -15,3 +15,4 @@
 
 - [hunkim/kakao-gpt](https://github.com/hunkim/kakao-gpt)
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt)
+- [chatGPT를 이용해 DB 쿼리 분석](https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases)
