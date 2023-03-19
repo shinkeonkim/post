@@ -14,3 +14,7 @@
 
 - https://protomaps.com/
   - Serverless 지도 오픈소스
+
+- https://glicol.org/
+  - Computer music language
+  - 프로그래밍으로 노래 만들기
