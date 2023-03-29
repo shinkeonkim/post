@@ -18,3 +18,11 @@
 - https://glicol.org/
   - Computer music language
   - 프로그래밍으로 노래 만들기
+
+- https://loop.microsoft.com/learn
+
+- https://web.dev/learn/
+
+- https://github.com/lucaong/minisearch
+
+- https://runwayml.com/
